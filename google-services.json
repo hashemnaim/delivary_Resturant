@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "93645667164",
+    "project_id": "karyaapp-5be56",
+    "storage_bucket": "karyaapp-5be56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93645667164:android:8e3ea6604966b064065f99",
+        "android_client_info": {
+          "package_name": "com.karya.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySyVXvLXmzzT5HX6jv1w1iIxODEThOMo"
+        },
+        {
+          "current_key": "AIzaSyAEh70Zuk8KIVhl3qOIN4PjUK9qJhSP798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93645667164-5k5qomgvnovlj01ausj51hj5mgij1vfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.karya.delivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93645667164:android:6bac3927af103845065f99",
+        "android_client_info": {
+          "package_name": "karya.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySyVXvLXmzzT5HX6jv1w1iIxODEThOMo"
+        },
+        {
+          "current_key": "AIzaSyAEh70Zuk8KIVhl3qOIN4PjUK9qJhSP798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93645667164-5k5qomgvnovlj01ausj51hj5mgij1vfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.karya.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
